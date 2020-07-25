@@ -1,2 +1,4 @@
-this is the second file from branch->"branch1".
+this is modified second file from branch->"branch1".
+
+
 some rando text - One possible reason that you get the "Failed to push some refs" error is that you do not have enough permission to push to the current branch (probably master). You need to ask project maintainers to give you enough permission or you need to push your changes to another branch and make a merge/pull request.
