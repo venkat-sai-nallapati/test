@@ -1,2 +1,2 @@
-this is the first file.
-some rando text - One possible reason that you get the "Failed to push some refs" error is that you do not have enough permission to push to the current branch (probably master). You need to ask project maintainers to give you enough permission or you need to push your changes to another branch and make a merge/pull request.
+this is modified content of first file.
+some rando text...................
